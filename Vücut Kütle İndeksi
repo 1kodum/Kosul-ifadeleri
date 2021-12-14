@@ -1,4 +1,3 @@
-
 boy  = float(input('Lütfen boyunuzu "metre" cinsinden giriniz...'))
 kilo = float(input('Lütfen kilonuzu "kilogram" cinsinden giriniz...'))
 
